@@ -8,7 +8,7 @@ from aiogram.utils.exceptions import Throttled
 
 
 class ThrottlingMiddleware(BaseMiddleware):
-    """
+    """dsfdsf
     Simple middleware
     """
 
